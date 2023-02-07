@@ -15,7 +15,7 @@ public class FirstScript : MonoBehaviour
     List<float> numerosFlotantes = new List<float>();
 
     List<string> nombres = new List<string>();
-    string frase = "Me gustan los Videojuegos";
+    //string frase = "Me gustan los Videojuegos";
 
     int[] numeros = { 0, 2, 4, 5, 6, 9 }; 
 
